@@ -1,0 +1,172 @@
+[
+    {
+        "id": 331368,
+        "name": "Европа 1962",
+        "city": "Сория",
+        "begin": "05.01",
+        "system": "circular",
+        "tours_count": 9,
+        "min_rating": 2299,
+        "time_on_game": 85
+    },
+    {
+        "id": 859704,
+        "name": "Макартур 1992",
+        "city": "Хихон",
+        "begin": "10.04",
+        "system": "circular",
+        "tours_count": 11,
+        "min_rating": 2298,
+        "time_on_game": 147
+    },
+    {
+        "id": 982693,
+        "name": "Тилбург 1973",
+        "city": "Баку",
+        "begin": "24.01",
+        "system": "circular",
+        "tours_count": 9,
+        "min_rating": 2291,
+        "time_on_game": 62
+    },
+    {
+        "id": 420227,
+        "name": "Политика 1968",
+        "city": "Душанбе",
+        "begin": "17.04",
+        "system": "Olympic",
+        "tours_count": 10,
+        "min_rating": 2283,
+        "time_on_game": 146
+    },
+    {
+        "id": 897404,
+        "name": "Европа 1977",
+        "city": "София",
+        "begin": "04.12",
+        "system": "Swiss",
+        "tours_count": 15,
+        "min_rating": 2282,
+        "time_on_game": 128
+    },
+    {
+        "id": 728948,
+        "name": "Пальма 2006",
+        "city": "Сараево",
+        "begin": "15.09",
+        "system": "Swiss",
+        "tours_count": 12,
+        "min_rating": 2280,
+        "time_on_game": 57
+    },
+    {
+        "id": 901959,
+        "name": "Сент-Луис 1962",
+        "city": "Картахена",
+        "begin": "12.05",
+        "system": "circular",
+        "tours_count": 15,
+        "min_rating": 2280,
+        "time_on_game": 123
+    },
+    {
+        "id": 396832,
+        "name": "Гран-при ФИДЕ 2019",
+        "city": "Пласенсия",
+        "begin": "19.12",
+        "system": "Swiss",
+        "tours_count": 15,
+        "min_rating": 2274,
+        "time_on_game": 36
+    },
+    {
+        "id": 243695,
+        "name": "Шамкович 2008",
+        "city": "Аликанте",
+        "begin": "16.12",
+        "system": "Swiss",
+        "tours_count": 8,
+        "min_rating": 2258,
+        "time_on_game": 172
+    },
+    {
+        "id": 862195,
+        "name": "Макартур 1966",
+        "city": "Вальядолид",
+        "begin": "05.10",
+        "system": "Olympic",
+        "tours_count": 6,
+        "min_rating": 2257,
+        "time_on_game": 39
+    },
+    {
+        "id": 432828,
+        "name": "Тилбург 1984",
+        "city": "Эль-Пуэрто-де-Санта-Мария",
+        "begin": "11.07",
+        "system": "circular",
+        "tours_count": 10,
+        "min_rating": 2251,
+        "time_on_game": 97
+    },
+    {
+        "id": 698040,
+        "name": "Гашиш 1954",
+        "city": "Бильбао",
+        "begin": "08.05",
+        "system": "Olympic",
+        "tours_count": 11,
+        "min_rating": 2247,
+        "time_on_game": 158
+    },
+    {
+        "id": 200509,
+        "name": "Sinquefield Cup 2019",
+        "city": "Бишкек",
+        "begin": "05.12",
+        "system": "Olympic",
+        "tours_count": 14,
+        "min_rating": 2246,
+        "time_on_game": 158
+    },
+    {
+        "id": 416496,
+        "name": "Пальма 1997",
+        "city": "Прага",
+        "begin": "05.07",
+        "system": "Olympic",
+        "tours_count": 11,
+        "min_rating": 2235,
+        "time_on_game": 102
+    },
+    {
+        "id": 188810,
+        "name": "Макартур 2011",
+        "city": "Тарраса",
+        "begin": "06.05",
+        "system": "circular",
+        "tours_count": 15,
+        "min_rating": 2226,
+        "time_on_game": 102
+    },
+    {
+        "id": 554076,
+        "name": "Чемпионат мира 1976",
+        "city": "Тудела",
+        "begin": "21.08",
+        "system": "Olympic",
+        "tours_count": 11,
+        "min_rating": 2222,
+        "time_on_game": 76
+    },
+    {
+        "id": 132380,
+        "name": "Биль 1952",
+        "city": "Картахена",
+        "begin": "18.07",
+        "system": "Swiss",
+        "tours_count": 9,
+        "min_rating": 2212,
+        "time_on_game": 107
+    }
+]

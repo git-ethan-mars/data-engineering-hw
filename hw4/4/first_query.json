@@ -1,0 +1,112 @@
+[
+    {
+        "id": 96,
+        "name": "Corsair HS60",
+        "price": 30922.086375999996,
+        "quantity": 63,
+        "category": null,
+        "fromCity": "Вальядолид",
+        "isAvailable": 1,
+        "views": 17834,
+        "version": 17
+    },
+    {
+        "id": 184,
+        "name": "Corsair HS60",
+        "price": 73485.45668,
+        "quantity": 41,
+        "category": null,
+        "fromCity": "Тбилиси",
+        "isAvailable": 1,
+        "views": 63188,
+        "version": 17
+    },
+    {
+        "id": 185,
+        "name": "Corsair HS60",
+        "price": 10665.962823999998,
+        "quantity": 38,
+        "category": null,
+        "fromCity": "Мадрид",
+        "isAvailable": 1,
+        "views": 49529,
+        "version": 17
+    },
+    {
+        "id": 116,
+        "name": "delightful night cream",
+        "price": 101.35624128000002,
+        "quantity": 1083,
+        "category": "cosmetics",
+        "fromCity": "Мартоса",
+        "isAvailable": 1,
+        "views": 58659,
+        "version": 13
+    },
+    {
+        "id": 121,
+        "name": "marvelous deodorant",
+        "price": 34.99254812160001,
+        "quantity": 941,
+        "category": "cosmetics",
+        "fromCity": "Хихон",
+        "isAvailable": 1,
+        "views": 49265,
+        "version": 13
+    },
+    {
+        "id": 62,
+        "name": "sublime facial cleanser",
+        "price": 50.531408400000004,
+        "quantity": 431,
+        "category": "cosmetics",
+        "fromCity": "Малага",
+        "isAvailable": 1,
+        "views": 41545,
+        "version": 12
+    },
+    {
+        "id": 186,
+        "name": "refined kiwifruit",
+        "price": 87.44879999999999,
+        "quantity": 440,
+        "category": "fruit",
+        "fromCity": "Вальядолид",
+        "isAvailable": 1,
+        "views": 23254,
+        "version": 12
+    },
+    {
+        "id": 31,
+        "name": "tasteful ladder",
+        "price": 50.78,
+        "quantity": 496,
+        "category": "tools",
+        "fromCity": "Алькала-де-Энарес",
+        "isAvailable": 1,
+        "views": 94540,
+        "version": 11
+    },
+    {
+        "id": 64,
+        "name": "sublime grapes",
+        "price": 175.2118,
+        "quantity": 1112,
+        "category": "fruit",
+        "fromCity": "Куэнка",
+        "isAvailable": 1,
+        "views": 92604,
+        "version": 11
+    },
+    {
+        "id": 114,
+        "name": "attractive bubble bath",
+        "price": 94.31273280000002,
+        "quantity": 715,
+        "category": "cosmetics",
+        "fromCity": "Касерес",
+        "isAvailable": 1,
+        "views": 36828,
+        "version": 11
+    }
+]

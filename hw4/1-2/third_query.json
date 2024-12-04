@@ -1,0 +1,412 @@
+[
+    {
+        "tournament_name": "Sinquefield Cup 1993",
+        "maximum_prise": 24000000,
+        "average_minimum_rating": 2503.0
+    },
+    {
+        "tournament_name": "Sinquefield Cup 2011",
+        "maximum_prise": 22000000,
+        "average_minimum_rating": 2419.0
+    },
+    {
+        "tournament_name": "Sinquefield Cup 2019",
+        "maximum_prise": 34000000,
+        "average_minimum_rating": 2246.0
+    },
+    {
+        "tournament_name": "Sinquefield Cup 2024",
+        "maximum_prise": 8000000,
+        "average_minimum_rating": 2489.0
+    },
+    {
+        "tournament_name": "Алушта 1958",
+        "maximum_prise": 18000000,
+        "average_minimum_rating": 2607.0
+    },
+    {
+        "tournament_name": "Аэрофлот Опен 2015",
+        "maximum_prise": 35000000,
+        "average_minimum_rating": 2403.0
+    },
+    {
+        "tournament_name": "Биль 1952",
+        "maximum_prise": 21000000,
+        "average_minimum_rating": 2212.0
+    },
+    {
+        "tournament_name": "Биль 1953",
+        "maximum_prise": 19000000,
+        "average_minimum_rating": 2320.0
+    },
+    {
+        "tournament_name": "Биль 1970",
+        "maximum_prise": 47000000,
+        "average_minimum_rating": 2645.0
+    },
+    {
+        "tournament_name": "Биль 1987",
+        "maximum_prise": 21000000,
+        "average_minimum_rating": 2310.0
+    },
+    {
+        "tournament_name": "Вейк-ан-Зее 1989",
+        "maximum_prise": 34000000,
+        "average_minimum_rating": 2371.0
+    },
+    {
+        "tournament_name": "Вейк-ан-Зее 2015",
+        "maximum_prise": 20000000,
+        "average_minimum_rating": 2448.0
+    },
+    {
+        "tournament_name": "Вейк-ан-Зее 2016",
+        "maximum_prise": 36000000,
+        "average_minimum_rating": 2626.0
+    },
+    {
+        "tournament_name": "Вена 1951",
+        "maximum_prise": 24000000,
+        "average_minimum_rating": 2391.0
+    },
+    {
+        "tournament_name": "Вена 1957",
+        "maximum_prise": 27000000,
+        "average_minimum_rating": 2408.0
+    },
+    {
+        "tournament_name": "Гашиш 1954",
+        "maximum_prise": 43000000,
+        "average_minimum_rating": 2247.0
+    },
+    {
+        "tournament_name": "Гашиш 1959",
+        "maximum_prise": 36000000,
+        "average_minimum_rating": 2612.0
+    },
+    {
+        "tournament_name": "Гашиш 1973",
+        "maximum_prise": 18000000,
+        "average_minimum_rating": 2474.0
+    },
+    {
+        "tournament_name": "Гашиш 1980",
+        "maximum_prise": 45000000,
+        "average_minimum_rating": 2361.0
+    },
+    {
+        "tournament_name": "Гашиш 2009",
+        "maximum_prise": 28000000,
+        "average_minimum_rating": 2380.0
+    },
+    {
+        "tournament_name": "Гашиш 2011",
+        "maximum_prise": 34000000,
+        "average_minimum_rating": 2644.0
+    },
+    {
+        "tournament_name": "Гашиш 2013",
+        "maximum_prise": 5000000,
+        "average_minimum_rating": 2499.0
+    },
+    {
+        "tournament_name": "Гран-при ФИДЕ 1984",
+        "maximum_prise": 32000000,
+        "average_minimum_rating": 2485.0
+    },
+    {
+        "tournament_name": "Гран-при ФИДЕ 2010",
+        "maximum_prise": 29000000,
+        "average_minimum_rating": 2595.0
+    },
+    {
+        "tournament_name": "Гран-при ФИДЕ 2019",
+        "maximum_prise": 46000000,
+        "average_minimum_rating": 2274.0
+    },
+    {
+        "tournament_name": "Дортмунд 1952",
+        "maximum_prise": 49000000,
+        "average_minimum_rating": 2631.0
+    },
+    {
+        "tournament_name": "Дортмунд 2001",
+        "maximum_prise": 21000000,
+        "average_minimum_rating": 2593.0
+    },
+    {
+        "tournament_name": "Европа 1959",
+        "maximum_prise": 29000000,
+        "average_minimum_rating": 2511.0
+    },
+    {
+        "tournament_name": "Европа 1962",
+        "maximum_prise": 14000000,
+        "average_minimum_rating": 2299.0
+    },
+    {
+        "tournament_name": "Европа 1977",
+        "maximum_prise": 34000000,
+        "average_minimum_rating": 2282.0
+    },
+    {
+        "tournament_name": "Европа 1991",
+        "maximum_prise": 31000000,
+        "average_minimum_rating": 2400.0
+    },
+    {
+        "tournament_name": "Кубок мира 1977",
+        "maximum_prise": 48000000,
+        "average_minimum_rating": 2366.0
+    },
+    {
+        "tournament_name": "Кубок мира 1979",
+        "maximum_prise": 8000000,
+        "average_minimum_rating": 2371.0
+    },
+    {
+        "tournament_name": "Кубок мира 2001",
+        "maximum_prise": 1000000,
+        "average_minimum_rating": 2556.0
+    },
+    {
+        "tournament_name": "Кубок мира 2017",
+        "maximum_prise": 32000000,
+        "average_minimum_rating": 2557.0
+    },
+    {
+        "tournament_name": "Линарес 2017",
+        "maximum_prise": 36000000,
+        "average_minimum_rating": 2615.0
+    },
+    {
+        "tournament_name": "Линарес 2020",
+        "maximum_prise": 32000000,
+        "average_minimum_rating": 2495.0
+    },
+    {
+        "tournament_name": "Лондон 1969",
+        "maximum_prise": 44000000,
+        "average_minimum_rating": 2538.0
+    },
+    {
+        "tournament_name": "Лондон 1980",
+        "maximum_prise": 25000000,
+        "average_minimum_rating": 2478.0
+    },
+    {
+        "tournament_name": "Лондон 1997",
+        "maximum_prise": 8000000,
+        "average_minimum_rating": 2358.0
+    },
+    {
+        "tournament_name": "Лондон 2006",
+        "maximum_prise": 33000000,
+        "average_minimum_rating": 2338.0
+    },
+    {
+        "tournament_name": "Лондон 2012",
+        "maximum_prise": 14000000,
+        "average_minimum_rating": 2419.0
+    },
+    {
+        "tournament_name": "Лондон 2015",
+        "maximum_prise": 40000000,
+        "average_minimum_rating": 2386.0
+    },
+    {
+        "tournament_name": "Макартур 1966",
+        "maximum_prise": 15000000,
+        "average_minimum_rating": 2257.0
+    },
+    {
+        "tournament_name": "Макартур 1984",
+        "maximum_prise": 44000000,
+        "average_minimum_rating": 2629.0
+    },
+    {
+        "tournament_name": "Макартур 1992",
+        "maximum_prise": 18000000,
+        "average_minimum_rating": 2298.0
+    },
+    {
+        "tournament_name": "Макартур 2011",
+        "maximum_prise": 21000000,
+        "average_minimum_rating": 2226.0
+    },
+    {
+        "tournament_name": "Мемориал Таля 1969",
+        "maximum_prise": 43000000,
+        "average_minimum_rating": 2316.0
+    },
+    {
+        "tournament_name": "Мемориал Таля 1984",
+        "maximum_prise": 42000000,
+        "average_minimum_rating": 2422.0
+    },
+    {
+        "tournament_name": "Мемориал Таля 1999",
+        "maximum_prise": 34000000,
+        "average_minimum_rating": 2585.0
+    },
+    {
+        "tournament_name": "Пальма 1954",
+        "maximum_prise": 17000000,
+        "average_minimum_rating": 2623.0
+    },
+    {
+        "tournament_name": "Пальма 1997",
+        "maximum_prise": 33000000,
+        "average_minimum_rating": 2235.0
+    },
+    {
+        "tournament_name": "Пальма 2006",
+        "maximum_prise": 13000000,
+        "average_minimum_rating": 2280.0
+    },
+    {
+        "tournament_name": "Пойковский 1957",
+        "maximum_prise": 16000000,
+        "average_minimum_rating": 2623.0
+    },
+    {
+        "tournament_name": "Пойковский 1959",
+        "maximum_prise": 19000000,
+        "average_minimum_rating": 2618.0
+    },
+    {
+        "tournament_name": "Пойковский 1964",
+        "maximum_prise": 38000000,
+        "average_minimum_rating": 2521.0
+    },
+    {
+        "tournament_name": "Пойковский 1968",
+        "maximum_prise": 49000000,
+        "average_minimum_rating": 2471.0
+    },
+    {
+        "tournament_name": "Пойковский 1974",
+        "maximum_prise": 21000000,
+        "average_minimum_rating": 2506.0
+    },
+    {
+        "tournament_name": "Пойковский 2015",
+        "maximum_prise": 46000000,
+        "average_minimum_rating": 2541.0
+    },
+    {
+        "tournament_name": "Политика 1968",
+        "maximum_prise": 49000000,
+        "average_minimum_rating": 2283.0
+    },
+    {
+        "tournament_name": "Политика 1970",
+        "maximum_prise": 45000000,
+        "average_minimum_rating": 2509.0
+    },
+    {
+        "tournament_name": "Политика 1988",
+        "maximum_prise": 44000000,
+        "average_minimum_rating": 2390.0
+    },
+    {
+        "tournament_name": "Реджо-нель-Эмилия 1976",
+        "maximum_prise": 8000000,
+        "average_minimum_rating": 2306.0
+    },
+    {
+        "tournament_name": "Сент-Луис 1962",
+        "maximum_prise": 18000000,
+        "average_minimum_rating": 2280.0
+    },
+    {
+        "tournament_name": "Сент-Луис 1997",
+        "maximum_prise": 20000000,
+        "average_minimum_rating": 2361.0
+    },
+    {
+        "tournament_name": "Сент-Луис 2018",
+        "maximum_prise": 44000000,
+        "average_minimum_rating": 2627.0
+    },
+    {
+        "tournament_name": "Ставангер 2002",
+        "maximum_prise": 20000000,
+        "average_minimum_rating": 2355.0
+    },
+    {
+        "tournament_name": "Ставангер 2006",
+        "maximum_prise": 15000000,
+        "average_minimum_rating": 2319.0
+    },
+    {
+        "tournament_name": "Ставангер 2018",
+        "maximum_prise": 11000000,
+        "average_minimum_rating": 2642.0
+    },
+    {
+        "tournament_name": "Тилбург 1973",
+        "maximum_prise": 8000000,
+        "average_minimum_rating": 2291.0
+    },
+    {
+        "tournament_name": "Тилбург 1984",
+        "maximum_prise": 49000000,
+        "average_minimum_rating": 2251.0
+    },
+    {
+        "tournament_name": "Тилбург 2015",
+        "maximum_prise": 29000000,
+        "average_minimum_rating": 2318.0
+    },
+    {
+        "tournament_name": "Турнир претендентов 1981",
+        "maximum_prise": 17000000,
+        "average_minimum_rating": 2424.0
+    },
+    {
+        "tournament_name": "Хогевен 1970",
+        "maximum_prise": 25000000,
+        "average_minimum_rating": 2643.0
+    },
+    {
+        "tournament_name": "Хогевен 1996",
+        "maximum_prise": 44000000,
+        "average_minimum_rating": 2387.0
+    },
+    {
+        "tournament_name": "Цюрих 1958",
+        "maximum_prise": 1000000,
+        "average_minimum_rating": 2320.0
+    },
+    {
+        "tournament_name": "Цюрих 1962",
+        "maximum_prise": 46000000,
+        "average_minimum_rating": 2408.0
+    },
+    {
+        "tournament_name": "Цюрих 1985",
+        "maximum_prise": 14000000,
+        "average_minimum_rating": 2608.0
+    },
+    {
+        "tournament_name": "Цюрих 2003",
+        "maximum_prise": 46000000,
+        "average_minimum_rating": 2337.0
+    },
+    {
+        "tournament_name": "Цюрих 2019",
+        "maximum_prise": 42000000,
+        "average_minimum_rating": 2431.0
+    },
+    {
+        "tournament_name": "Чемпионат мира 1976",
+        "maximum_prise": 18000000,
+        "average_minimum_rating": 2222.0
+    },
+    {
+        "tournament_name": "Шамкович 2008",
+        "maximum_prise": 20000000,
+        "average_minimum_rating": 2258.0
+    }
+]

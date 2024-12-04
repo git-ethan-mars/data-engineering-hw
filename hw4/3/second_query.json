@@ -1,0 +1,8 @@
+[
+    {
+        "SUM(duration_ms)": 457496249.0,
+        "MAX(duration_ms)": 484146.0,
+        "MIN(duration_ms)": 113000.0,
+        "AVG(duration_ms)": 228748.1245
+    }
+]

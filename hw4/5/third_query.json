@@ -1,0 +1,74 @@
+[
+    {
+        "type_1": "Bug",
+        "pokemon_count": 69
+    },
+    {
+        "type_1": "Dark",
+        "pokemon_count": 31
+    },
+    {
+        "type_1": "Dragon",
+        "pokemon_count": 32
+    },
+    {
+        "type_1": "Electric",
+        "pokemon_count": 44
+    },
+    {
+        "type_1": "Fairy",
+        "pokemon_count": 17
+    },
+    {
+        "type_1": "Fighting",
+        "pokemon_count": 27
+    },
+    {
+        "type_1": "Fire",
+        "pokemon_count": 52
+    },
+    {
+        "type_1": "Flying",
+        "pokemon_count": 4
+    },
+    {
+        "type_1": "Ghost",
+        "pokemon_count": 32
+    },
+    {
+        "type_1": "Grass",
+        "pokemon_count": 70
+    },
+    {
+        "type_1": "Ground",
+        "pokemon_count": 32
+    },
+    {
+        "type_1": "Ice",
+        "pokemon_count": 24
+    },
+    {
+        "type_1": "Normal",
+        "pokemon_count": 98
+    },
+    {
+        "type_1": "Poison",
+        "pokemon_count": 28
+    },
+    {
+        "type_1": "Psychic",
+        "pokemon_count": 57
+    },
+    {
+        "type_1": "Rock",
+        "pokemon_count": 44
+    },
+    {
+        "type_1": "Steel",
+        "pokemon_count": 27
+    },
+    {
+        "type_1": "Water",
+        "pokemon_count": 112
+    }
+]

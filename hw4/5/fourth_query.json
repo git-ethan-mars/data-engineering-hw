@@ -1,0 +1,50 @@
+[
+    {
+        "pokemon_id": 214,
+        "name": "HeracrossMega Heracross",
+        "type_1": "Bug",
+        "type_2": "Fighting",
+        "generation": 2,
+        "legendary": 1,
+        "hp": 80,
+        "attack": 185,
+        "defense": 115,
+        "speed": 75
+    },
+    {
+        "pokemon_id": 383,
+        "name": "GroudonPrimal Groudon",
+        "type_1": "Ground",
+        "type_2": "Fire",
+        "generation": 3,
+        "legendary": 1,
+        "hp": 100,
+        "attack": 180,
+        "defense": 160,
+        "speed": 90
+    },
+    {
+        "pokemon_id": 384,
+        "name": "RayquazaMega Rayquaza",
+        "type_1": "Dragon",
+        "type_2": "Flying",
+        "generation": 3,
+        "legendary": 1,
+        "hp": 105,
+        "attack": 180,
+        "defense": 100,
+        "speed": 115
+    },
+    {
+        "pokemon_id": 386,
+        "name": "DeoxysAttack Forme",
+        "type_1": "Psychic",
+        "type_2": "",
+        "generation": 3,
+        "legendary": 1,
+        "hp": 50,
+        "attack": 180,
+        "defense": 20,
+        "speed": 150
+    }
+]

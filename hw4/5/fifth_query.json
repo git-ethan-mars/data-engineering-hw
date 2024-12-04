@@ -1,0 +1,92 @@
+[
+    {
+        "type_1": "Bug",
+        "average_special_attack": 53.869565217391305,
+        "average_special_defense": 64.79710144927536
+    },
+    {
+        "type_1": "Dark",
+        "average_special_attack": 74.64516129032258,
+        "average_special_defense": 69.51612903225806
+    },
+    {
+        "type_1": "Dragon",
+        "average_special_attack": 96.84375,
+        "average_special_defense": 88.84375
+    },
+    {
+        "type_1": "Electric",
+        "average_special_attack": 90.02272727272727,
+        "average_special_defense": 73.70454545454545
+    },
+    {
+        "type_1": "Fairy",
+        "average_special_attack": 78.52941176470588,
+        "average_special_defense": 84.70588235294117
+    },
+    {
+        "type_1": "Fighting",
+        "average_special_attack": 53.111111111111114,
+        "average_special_defense": 64.70370370370371
+    },
+    {
+        "type_1": "Fire",
+        "average_special_attack": 88.98076923076923,
+        "average_special_defense": 72.21153846153847
+    },
+    {
+        "type_1": "Flying",
+        "average_special_attack": 94.25,
+        "average_special_defense": 72.5
+    },
+    {
+        "type_1": "Ghost",
+        "average_special_attack": 79.34375,
+        "average_special_defense": 76.46875
+    },
+    {
+        "type_1": "Grass",
+        "average_special_attack": 77.5,
+        "average_special_defense": 70.42857142857143
+    },
+    {
+        "type_1": "Ground",
+        "average_special_attack": 56.46875,
+        "average_special_defense": 62.75
+    },
+    {
+        "type_1": "Ice",
+        "average_special_attack": 77.54166666666667,
+        "average_special_defense": 76.29166666666667
+    },
+    {
+        "type_1": "Normal",
+        "average_special_attack": 55.816326530612244,
+        "average_special_defense": 63.724489795918366
+    },
+    {
+        "type_1": "Poison",
+        "average_special_attack": 60.42857142857143,
+        "average_special_defense": 64.39285714285714
+    },
+    {
+        "type_1": "Psychic",
+        "average_special_attack": 98.40350877192982,
+        "average_special_defense": 86.28070175438596
+    },
+    {
+        "type_1": "Rock",
+        "average_special_attack": 63.34090909090909,
+        "average_special_defense": 75.47727272727273
+    },
+    {
+        "type_1": "Steel",
+        "average_special_attack": 67.51851851851852,
+        "average_special_defense": 80.62962962962963
+    },
+    {
+        "type_1": "Water",
+        "average_special_attack": 74.8125,
+        "average_special_defense": 70.51785714285714
+    }
+]

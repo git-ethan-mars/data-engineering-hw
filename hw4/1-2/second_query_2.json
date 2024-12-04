@@ -1,0 +1,330 @@
+[
+    {
+        "tournament_name": "Sinquefield Cup 1993",
+        "tournament_count": 11
+    },
+    {
+        "tournament_name": "Sinquefield Cup 2011",
+        "tournament_count": 5
+    },
+    {
+        "tournament_name": "Sinquefield Cup 2019",
+        "tournament_count": 9
+    },
+    {
+        "tournament_name": "Sinquefield Cup 2024",
+        "tournament_count": 12
+    },
+    {
+        "tournament_name": "Алушта 1958",
+        "tournament_count": 3
+    },
+    {
+        "tournament_name": "Аэрофлот Опен 2015",
+        "tournament_count": 6
+    },
+    {
+        "tournament_name": "Биль 1952",
+        "tournament_count": 9
+    },
+    {
+        "tournament_name": "Биль 1953",
+        "tournament_count": 12
+    },
+    {
+        "tournament_name": "Биль 1970",
+        "tournament_count": 7
+    },
+    {
+        "tournament_name": "Биль 1987",
+        "tournament_count": 15
+    },
+    {
+        "tournament_name": "Вейк-ан-Зее 1989",
+        "tournament_count": 15
+    },
+    {
+        "tournament_name": "Вейк-ан-Зее 2015",
+        "tournament_count": 10
+    },
+    {
+        "tournament_name": "Вейк-ан-Зее 2016",
+        "tournament_count": 4
+    },
+    {
+        "tournament_name": "Вена 1951",
+        "tournament_count": 4
+    },
+    {
+        "tournament_name": "Вена 1957",
+        "tournament_count": 4
+    },
+    {
+        "tournament_name": "Гашиш 1954",
+        "tournament_count": 14
+    },
+    {
+        "tournament_name": "Гашиш 1959",
+        "tournament_count": 12
+    },
+    {
+        "tournament_name": "Гашиш 1973",
+        "tournament_count": 8
+    },
+    {
+        "tournament_name": "Гашиш 1980",
+        "tournament_count": 13
+    },
+    {
+        "tournament_name": "Гашиш 2009",
+        "tournament_count": 9
+    },
+    {
+        "tournament_name": "Гашиш 2011",
+        "tournament_count": 7
+    },
+    {
+        "tournament_name": "Гашиш 2013",
+        "tournament_count": 7
+    },
+    {
+        "tournament_name": "Гран-при ФИДЕ 1984",
+        "tournament_count": 9
+    },
+    {
+        "tournament_name": "Гран-при ФИДЕ 2010",
+        "tournament_count": 14
+    },
+    {
+        "tournament_name": "Гран-при ФИДЕ 2019",
+        "tournament_count": 4
+    },
+    {
+        "tournament_name": "Дортмунд 1952",
+        "tournament_count": 8
+    },
+    {
+        "tournament_name": "Дортмунд 2001",
+        "tournament_count": 13
+    },
+    {
+        "tournament_name": "Европа 1959",
+        "tournament_count": 6
+    },
+    {
+        "tournament_name": "Европа 1962",
+        "tournament_count": 9
+    },
+    {
+        "tournament_name": "Европа 1977",
+        "tournament_count": 14
+    },
+    {
+        "tournament_name": "Европа 1991",
+        "tournament_count": 4
+    },
+    {
+        "tournament_name": "Кубок мира 1977",
+        "tournament_count": 12
+    },
+    {
+        "tournament_name": "Кубок мира 1979",
+        "tournament_count": 13
+    },
+    {
+        "tournament_name": "Кубок мира 2001",
+        "tournament_count": 13
+    },
+    {
+        "tournament_name": "Кубок мира 2017",
+        "tournament_count": 8
+    },
+    {
+        "tournament_name": "Линарес 2017",
+        "tournament_count": 13
+    },
+    {
+        "tournament_name": "Линарес 2020",
+        "tournament_count": 13
+    },
+    {
+        "tournament_name": "Лондон 1969",
+        "tournament_count": 4
+    },
+    {
+        "tournament_name": "Лондон 1980",
+        "tournament_count": 15
+    },
+    {
+        "tournament_name": "Лондон 1997",
+        "tournament_count": 6
+    },
+    {
+        "tournament_name": "Лондон 2006",
+        "tournament_count": 8
+    },
+    {
+        "tournament_name": "Лондон 2012",
+        "tournament_count": 14
+    },
+    {
+        "tournament_name": "Лондон 2015",
+        "tournament_count": 5
+    },
+    {
+        "tournament_name": "Макартур 1966",
+        "tournament_count": 13
+    },
+    {
+        "tournament_name": "Макартур 1984",
+        "tournament_count": 6
+    },
+    {
+        "tournament_name": "Макартур 1992",
+        "tournament_count": 5
+    },
+    {
+        "tournament_name": "Макартур 2011",
+        "tournament_count": 13
+    },
+    {
+        "tournament_name": "Мемориал Таля 1969",
+        "tournament_count": 13
+    },
+    {
+        "tournament_name": "Мемориал Таля 1984",
+        "tournament_count": 9
+    },
+    {
+        "tournament_name": "Мемориал Таля 1999",
+        "tournament_count": 11
+    },
+    {
+        "tournament_name": "Пальма 1954",
+        "tournament_count": 12
+    },
+    {
+        "tournament_name": "Пальма 1997",
+        "tournament_count": 13
+    },
+    {
+        "tournament_name": "Пальма 2006",
+        "tournament_count": 10
+    },
+    {
+        "tournament_name": "Пойковский 1957",
+        "tournament_count": 6
+    },
+    {
+        "tournament_name": "Пойковский 1959",
+        "tournament_count": 11
+    },
+    {
+        "tournament_name": "Пойковский 1964",
+        "tournament_count": 8
+    },
+    {
+        "tournament_name": "Пойковский 1968",
+        "tournament_count": 11
+    },
+    {
+        "tournament_name": "Пойковский 1974",
+        "tournament_count": 11
+    },
+    {
+        "tournament_name": "Пойковский 2015",
+        "tournament_count": 8
+    },
+    {
+        "tournament_name": "Политика 1968",
+        "tournament_count": 9
+    },
+    {
+        "tournament_name": "Политика 1970",
+        "tournament_count": 4
+    },
+    {
+        "tournament_name": "Политика 1988",
+        "tournament_count": 7
+    },
+    {
+        "tournament_name": "Реджо-нель-Эмилия 1976",
+        "tournament_count": 13
+    },
+    {
+        "tournament_name": "Сент-Луис 1962",
+        "tournament_count": 12
+    },
+    {
+        "tournament_name": "Сент-Луис 1997",
+        "tournament_count": 8
+    },
+    {
+        "tournament_name": "Сент-Луис 2018",
+        "tournament_count": 14
+    },
+    {
+        "tournament_name": "Ставангер 2002",
+        "tournament_count": 7
+    },
+    {
+        "tournament_name": "Ставангер 2006",
+        "tournament_count": 13
+    },
+    {
+        "tournament_name": "Ставангер 2018",
+        "tournament_count": 9
+    },
+    {
+        "tournament_name": "Тилбург 1973",
+        "tournament_count": 6
+    },
+    {
+        "tournament_name": "Тилбург 1984",
+        "tournament_count": 7
+    },
+    {
+        "tournament_name": "Тилбург 2015",
+        "tournament_count": 10
+    },
+    {
+        "tournament_name": "Турнир претендентов 1981",
+        "tournament_count": 12
+    },
+    {
+        "tournament_name": "Хогевен 1970",
+        "tournament_count": 7
+    },
+    {
+        "tournament_name": "Хогевен 1996",
+        "tournament_count": 14
+    },
+    {
+        "tournament_name": "Цюрих 1958",
+        "tournament_count": 4
+    },
+    {
+        "tournament_name": "Цюрих 1962",
+        "tournament_count": 6
+    },
+    {
+        "tournament_name": "Цюрих 1985",
+        "tournament_count": 4
+    },
+    {
+        "tournament_name": "Цюрих 2003",
+        "tournament_count": 6
+    },
+    {
+        "tournament_name": "Цюрих 2019",
+        "tournament_count": 15
+    },
+    {
+        "tournament_name": "Чемпионат мира 1976",
+        "tournament_count": 8
+    },
+    {
+        "tournament_name": "Шамкович 2008",
+        "tournament_count": 6
+    }
+]

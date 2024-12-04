@@ -1,0 +1,97 @@
+[
+    {
+        "name": "DeoxysSpeed Forme",
+        "type_2": "",
+        "max_speed": 180
+    },
+    {
+        "name": "Anorith",
+        "type_2": "Bug",
+        "max_speed": 75
+    },
+    {
+        "name": "Greninja",
+        "type_2": "Dark",
+        "max_speed": 122
+    },
+    {
+        "name": "SceptileMega Sceptile",
+        "type_2": "Dragon",
+        "max_speed": 145
+    },
+    {
+        "name": "Galvantula",
+        "type_2": "Electric",
+        "max_speed": 108
+    },
+    {
+        "name": "Whimsicott",
+        "type_2": "Fairy",
+        "max_speed": 116
+    },
+    {
+        "name": "LopunnyMega Lopunny",
+        "type_2": "Fighting",
+        "max_speed": 135
+    },
+    {
+        "name": "HoundoomMega Houndoom",
+        "type_2": "Fire",
+        "max_speed": 115
+    },
+    {
+        "name": "Ninjask",
+        "type_2": "Flying",
+        "max_speed": 160
+    },
+    {
+        "name": "Froslass",
+        "type_2": "Ghost",
+        "max_speed": 110
+    },
+    {
+        "name": "Celebi",
+        "type_2": "Grass",
+        "max_speed": 100
+    },
+    {
+        "name": "Garchomp",
+        "type_2": "Ground",
+        "max_speed": 102
+    },
+    {
+        "name": "Weavile",
+        "type_2": "Ice",
+        "max_speed": 125
+    },
+    {
+        "name": "Heliolisk",
+        "type_2": "Normal",
+        "max_speed": 109
+    },
+    {
+        "name": "BeedrillMega Beedrill",
+        "type_2": "Poison",
+        "max_speed": 145
+    },
+    {
+        "name": "Starmie",
+        "type_2": "Psychic",
+        "max_speed": 115
+    },
+    {
+        "name": "Relicanth",
+        "type_2": "Rock",
+        "max_speed": 55
+    },
+    {
+        "name": "LucarioMega Lucario",
+        "type_2": "Steel",
+        "max_speed": 112
+    },
+    {
+        "name": "RotomWash Rotom",
+        "type_2": "Water",
+        "max_speed": 86
+    }
+]
