@@ -1,0 +1,32 @@
+[
+    {
+        "_id": 2,
+        "max_speed": 130,
+        "min_speed": 5,
+        "avg_speed": 61.81132075471698
+    },
+    {
+        "_id": 6,
+        "max_speed": 126,
+        "min_speed": 23,
+        "avg_speed": 66.4390243902439
+    },
+    {
+        "_id": 3,
+        "max_speed": 180,
+        "min_speed": 10,
+        "avg_speed": 66.925
+    },
+    {
+        "_id": 5,
+        "max_speed": 145,
+        "min_speed": 10,
+        "avg_speed": 68.07878787878788
+    },
+    {
+        "_id": 4,
+        "max_speed": 135,
+        "min_speed": 5,
+        "avg_speed": 71.33884297520662
+    }
+]
